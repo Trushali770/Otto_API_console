@@ -1,0 +1,1 @@
+from .mylib import get_data_from_jsonplaceholder
